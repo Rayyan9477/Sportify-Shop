@@ -29,7 +29,7 @@ Sportify Shop is a comprehensive online shopping web application dedicated to sp
 ### Steps
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/sportify-shop.git
+    git clone https://github.com/Rayyan9477/sportify-shop.git
     cd sportify-shop
     ```
 
